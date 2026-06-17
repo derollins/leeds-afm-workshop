@@ -1,0 +1,19 @@
+name: leeds_python_workshop
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11
+  - numpy
+  - matplotlib
+  - scipy
+  - scikit-image
+  - pandas
+  - jupyter
+  - pip
+  - pip:
+      - afmlevel
+      - AFMReader
+      - playnano
+      - topostats
