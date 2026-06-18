@@ -13,7 +13,4 @@ dependencies:
   - jupyter
   - pip
   - pip:
-      - afmlevel
       - AFMReader
-      - playnano
-      - topostats

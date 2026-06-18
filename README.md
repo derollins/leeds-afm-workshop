@@ -170,4 +170,4 @@ python -m jupyter lab
 ## 💡 Tips
 
 - Please install everything **before the workshop** to save time
-- If something breaks, don’t worry — we’ll help troubleshoot during the session
+- If something breaks, don’t worry, we’ll help troubleshoot during the session
