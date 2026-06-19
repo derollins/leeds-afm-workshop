@@ -102,6 +102,8 @@ conda activate leeds_python_workshop
 
 ### 6. Launch Jupyter
 
+Make sure you are in the workshop repo folder (leeds-afm-workshop) then run:
+
 ```bash
 jupyter lab
 ```
