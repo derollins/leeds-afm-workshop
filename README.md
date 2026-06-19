@@ -114,7 +114,7 @@ jupyter lab
 
 ### 7. Open the workshop notebooks
 
-Navigate to the `notebooks/` folder and start with:
+When you are in the workshop folder you can work open:
 
 ```txt
 00_intro.ipynb

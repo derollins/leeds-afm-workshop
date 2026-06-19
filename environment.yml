@@ -9,7 +9,10 @@ dependencies:
   - matplotlib
   - scipy
   - scikit-image
+  - scikit-learn
   - pandas
+  - pillow
+  - tifffile
   - jupyter
   - pip
   - pip:
